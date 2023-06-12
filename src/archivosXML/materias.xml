@@ -1,0 +1,62 @@
+<root>
+  <Item>
+    <Materia>Fisica Electrica</Materia>
+    <Profesor>Rafael Guglielmo</Profesor>
+    <Carrera>Ingeniería Informática</Carrera>
+    <NRC>15390</NRC>
+    <Dia1>Miércoles</Dia1>
+    <Dia2>Jueves</Dia2>
+    <Dia3>Viernes</Dia3>
+    <HoraI1>7:00 A.M</HoraI1>
+    <HoraI2>11:00 A.M</HoraI2>
+    <HoraI3>7:00 A.M</HoraI3>
+    <HoraF1>9:00 A.M</HoraF1>
+    <HoraF2>1:00 P.M</HoraF2>
+    <HoraF3>8:00 A.M</HoraF3>
+  </Item>
+  <Item>
+    <Materia>Algoritmos y Programacion II</Materia>
+    <Profesor>Omar Barreras</Profesor>
+    <Carrera>Ingeniería Informática</Carrera>
+    <NRC>25608</NRC>
+    <Dia1>Lunes</Dia1>
+    <Dia2>Miércoles</Dia2>
+    <Dia3>X</Dia3>
+    <HoraI1>10:00 A.M</HoraI1>
+    <HoraI2>9:00 A.M</HoraI2>
+    <HoraI3>X</HoraI3>
+    <HoraF1>12:00 A.M</HoraF1>
+    <HoraF2>11:00 A.M</HoraF2>
+    <HoraF3>X</HoraF3>
+  </Item>
+  <Item>
+    <Materia>Ecologia, Ambiente y Sustentabilidad</Materia>
+    <Profesor>Carmen Diaz</Profesor>
+    <Carrera>Ingeniería Informática</Carrera>
+    <NRC>23540</NRC>
+    <Dia1>Jueves</Dia1>
+    <Dia2>X</Dia2>
+    <Dia3>X</Dia3>
+    <HoraI1>9:00 A.M</HoraI1>
+    <HoraI2>X</HoraI2>
+    <HoraI3>X</HoraI3>
+    <HoraF1>11:00 A.M</HoraF1>
+    <HoraF2>X</HoraF2>
+    <HoraF3>X</HoraF3>
+  </Item>
+  <Item>
+    <Materia>Calculo 3</Materia>
+    <Profesor>Khaela</Profesor>
+    <Carrera>Ingeniería Informática</Carrera>
+    <NRC>1515</NRC>
+    <Dia1>Martes</Dia1>
+    <Dia2>X</Dia2>
+    <Dia3>X</Dia3>
+    <HoraI1>7:00 A.M</HoraI1>
+    <HoraI2>X</HoraI2>
+    <HoraI3>X</HoraI3>
+    <HoraF1>9:00 A.M</HoraF1>
+    <HoraF2>X</HoraF2>
+    <HoraF3>X</HoraF3>
+  </Item>
+</root>

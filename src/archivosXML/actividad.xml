@@ -1,0 +1,21 @@
+<root>
+  <ActividadExtracurricular>
+    <ActividadE>Beisbol</ActividadE>
+    <NroActividad>1</NroActividad>
+    <DiaE1>Miércoles</DiaE1>
+    <DiaE2>X</DiaE2>
+    <DiaE3>X</DiaE3>
+    <DiaE4>X</DiaE4>
+    <DiaE5>X</DiaE5>
+    <horaIE1>12:00 A.M</horaIE1>
+    <horaIE2>X</horaIE2>
+    <horaIE3>X</horaIE3>
+    <horaIE4>X</horaIE4>
+    <horaIE5>X</horaIE5>
+    <horaFE1>2:00 P.M</horaFE1>
+    <horaFE2>X</horaFE2>
+    <horaFE3>X</horaFE3>
+    <horaFE4>X</horaFE4>
+    <horaFE5>X</horaFE5>
+  </ActividadExtracurricular>
+</root>
